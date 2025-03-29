@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Cogito x Infor
-- 🌱 I’m currently learning recommendation algoritms
+- 🌱 I’m currently learning about AI agents and Browser-Use
 - ⚡ Fun fact: I play handball
 
  <!--- stats & Trophy (start) -->
