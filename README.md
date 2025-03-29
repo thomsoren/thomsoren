@@ -8,7 +8,7 @@
 <p align="center">
   <!--- stats (start) -->
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thomsoren&theme=dark&show_icons=true&count_private=true" />
 
 
 
