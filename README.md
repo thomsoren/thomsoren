@@ -14,4 +14,4 @@
 
 </table>
 
-[Visit my portfolio](https://thomasnordbysoerensen.vercel.app/))
+[Visit my portfolio](https://thomasnordbysoerensen.vercel.app/)
